@@ -1,5 +1,7 @@
-#Zhenya Karan
-#FrontEnd Developer
+Zhenya Karan
+=====
+FrontEnd Developer
+=====
 ## Contacts:
  * email: karanek10@gmail.com
  * discord: Karan Zhenya (karanzhenya)#7652
